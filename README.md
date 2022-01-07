@@ -25,10 +25,6 @@ Build With
 - [SQLITE3] Databases
 - [Django-Import-Export] - django-import-export is a Django application and library for importing and exporting data with included admin integration.
 
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
 ## Installation
 
 Set Up virtual environments
@@ -54,9 +50,7 @@ Create Super User And Run Server
 
 ## Plugins
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
+This App is currently extended with the following plugins.
 | Package | Docs |
 | ------ | ------ |
 | Django | [Django](https://www.djangoproject.com) |
