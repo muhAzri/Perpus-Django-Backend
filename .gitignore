@@ -1,0 +1,9 @@
+perpus-env/
+db.sqlite3/
+media/
+
+perpus/__pycache__
+perpus/settings.py
+
+perpustakaan/migrations
+perpustakaan/__pycache__

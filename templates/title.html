@@ -1,0 +1,6 @@
+<center>
+    <h1>Perpustakaan</h1>
+    {% if user.is_authenticated %}
+        <p>halo, <strong>{{ user }}</strong>! / <a href="{% url 'logout' %}">Logout</a></p>
+    {% endif %}
+</center>
